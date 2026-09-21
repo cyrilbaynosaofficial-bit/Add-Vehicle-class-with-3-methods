@@ -20,7 +20,7 @@ class vehicle {
          if (age >= 25) {
           System.out.println("Its vintage.");
        } else {
-            System.out.println("Its not.");
+            System.out.println("Its not a vintage.");
          }
          
    }
